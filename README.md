@@ -1,4 +1,4 @@
-# Drowsiness Detection
+# Book Recommendation System
 
 - The Book Recommender System is designed to provide personalized book recommendations based on the book title provided by the user.
 - Uses collaborative filtering techniques to analyse user ratings and suggests books with similar characteristics
@@ -7,19 +7,19 @@
 - Deployed on Streamlit community for public access. https://book-recommender-vishnu.streamlit.app
 
 ## Screenshots
-<img width=700 src="https://raw.githubusercontent.com/vishnusingh-12/laptop_price_prediction/master/readme/Capture.PNG">
-<img width=700 src="https://raw.githubusercontent.com/vishnusingh-12/laptop_price_prediction/master/readme/Capture2.PNG">
+<img width=700 src="https://raw.githubusercontent.com/vishnusingh-12/book-recommender/master/readme/Capture2.PNG">
+<img width=700 src="https://raw.githubusercontent.com/vishnusingh-12/book-recommender/master/readme/Capture3.PNG">
 
 
 
 ## Usage
-<pre>git clone  https://github.com/vishnusingh-12/laptop_price_prediction
-cd laptop_price_prediction
+<pre>git clone  https://github.com/vishnusingh-12/book-recommender
+cd book-recommender
 pip install -r requirements.txt
 streamlit run app.py </pre>
 
 
-The deployed app on Render can be accessed through the following <a href="https://laptop-price-iq22.onrender.com">link</a>.
+The deployed app on Streamlit community can be accessed through the following <a href="https://book-recommender-vishnu.streamlit.app">link</a>.
 
 
 ## Technologies
